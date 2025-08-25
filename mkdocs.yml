@@ -1,44 +1,38 @@
 site_name: Scandroid User Guide
 site_url: https://jackwharrison.github.io/scandroid-user-guide/
-site_description: User guide for the Scandroid tool developed by 510, Netherlands Red Cross
-
 theme:
   name: material
-  logo: img/scandroid_banner.png
   favicon: img/favicon.ico
+  logo: img/scandroid_banner.png
   palette:
-    - scheme: default
-      primary: red
-      accent: deep orange
+    primary: red
+    accent: deep orange
   font:
     text: Roboto
     code: Roboto Mono
   features:
     - navigation.instant
     - navigation.sections
-    - navigation.expand
     - navigation.top
+    - search.suggest
+    - search.highlight
     - content.action.edit
-    - content.code.copy
+    - content.code.annotate
 
 nav:
   - Home: index.md
-  - For FSPs:
-      - Overview: fsp/overview.md
-      - Step-by-step Guide: fsp/steps.md
-  - For Red Cross Staff:
-      - Overview: staff/overview.md
-      - Troubleshooting: staff/troubleshooting.md
-  - For Admins:
-      - Managing Config: admin/config.md
-      - Offline Cache: admin/cache.md
+  - Red Cross Staff: staff/index.md
+  - FSP: fsp/index.md
+  - Admin: admin/index.md
 
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/jackwharrison/scandroid-user-guide
-  generator: false
-
-extra_footer:
-  - Developed by 510 @ The Netherlands Red Cross  
-  - If you need support, contact [jharrison@redcross.nl](mailto:jharrison@redcross.nl)
+  footer:
+    html: |
+      <hr />
+      <p style="text-align: center; font-size: 0.9em;">
+        Developed by 510 @ The Netherlands Red Cross<br />
+        Need help? Contact <a href="mailto:jharrison@redcross.nl">jharrison@redcross.nl</a>
+      </p>
