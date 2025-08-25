@@ -1,31 +1,38 @@
 site_name: Scandroid User Guide
+site_url: https://jackwharrison.github.io/scandroid-user-guide/
 theme:
   name: material
-  favicon: docs/assets/favicon.ico
-  logo: docs/assets/scandroid_banner.png
+  favicon: img/favicon.ico
+  logo: img/scandroid_banner.png
   palette:
     scheme: default
-    primary: red
+    primary: deep purple  # Match the Scandroid color scheme
     accent: deep orange
   font:
     text: Roboto
     code: Roboto Mono
   features:
+    - navigation.sections
     - navigation.instant
-    - navigation.top
-    - navigation.tabs
+    - navigation.expand
+    - content.code.copy
+    - content.action.edit
 
 nav:
   - Home: index.md
-  - FSP Guide: fsp-guide.md
-  - Red Cross Staff: red-cross-staff.md
-  - Admin Guide: admin-guide.md
+  - Red Cross Staff: red-cross.md
+  - FSP: fsp.md
+  - Admin: admin.md
 
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/jackwharrison/scandroid
+      link: https://github.com/jackwharrison/scandroid-user-guide
+  generator: false
 
-extra_footer:
-  - Developed by 510 @ The Netherlands Red Cross  
-  - If you need support, contact [jharrison@redcross.nl](mailto:jharrison@redcross.nl)
+extra_footer: |
+  <hr />
+  <p style="text-align: center; font-size: 0.9em;">
+    Developed by <strong>510 @ The Netherlands Red Cross</strong><br />
+    If you need support, contact <a href="mailto:jharrison@redcross.nl">jharrison@redcross.nl</a>
+  </p>
