@@ -1,38 +1,60 @@
-site_name: Scandroid User Guide
+site_name: Scandroid
 site_url: https://jackwharrison.github.io/scandroid-user-guide/
+site_description: User guide for Scandroid – Scan. Validate. Assist.
+site_author: 510 - The Netherlands Red Cross
 theme:
   name: material
-  favicon: img/favicon.ico
   logo: img/scandroid_banner.png
+  favicon: img/favicon.ico
   palette:
-    primary: red
-    accent: deep orange
+    - scheme: default
+      primary: red
+      accent: deep orange
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.instant
+    - content.code.annotate
+    - toc.integrate
+    - header.autohide
+    - footer.social
   font:
     text: Roboto
     code: Roboto Mono
-  features:
-    - navigation.instant
-    - navigation.sections
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - content.action.edit
-    - content.code.annotate
 
 nav:
   - Home: index.md
   - Red Cross Staff: staff/index.md
-  - FSP: fsp/index.md
+  - FSPs: fsp/index.md
   - Admin: admin/index.md
 
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/jackwharrison/scandroid-user-guide
-  footer:
-    html: |
-      <hr />
-      <p style="text-align: center; font-size: 0.9em;">
-        Developed by 510 @ The Netherlands Red Cross<br />
-        Need help? Contact <a href="mailto:jharrison@redcross.nl">jharrison@redcross.nl</a>
-      </p>
+  generator: false
+
+extra_footer: |
+  <hr>
+  <p style="text-align: center; font-size: 0.9em;">
+    Developed by 510 @ The Netherlands Red Cross.<br>
+    For support, contact <a href="mailto:jharrison@redcross.nl">jharrison@redcross.nl</a>.
+  </p>
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - footnotes
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.keys
+  - pymdownx.critic
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.mark
+  - pymdownx.tasklist:
+      custom_checkbox: true

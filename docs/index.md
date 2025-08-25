@@ -1,6 +1,6 @@
 ![Scandroid Banner](img/scandroid_banner.png)
 
-# TESTING UPDATE
+# TESTING UPDATE - No. 2
 
 # Welcome to Scandroid
 
