@@ -23,10 +23,13 @@ Scandroid is:
 - **Flexible and customisable** for Red Cross staff configuring validation.  
 - **Accessible**, with multiple languages supported out of the box.
 
+
 ## Next Steps
 
 To get started, choose the guidance most relevant to your role:
 
-- [**For Financial Service Providers (FSPs)**](fsp/index.md)
-- [**For Red Cross Staff**](staff/index.md)
-- [**For System Administrators**](admin/index.md)
+[For Financial Service Providers (FSPs)](fsp/index.md){: .md-button .md-button--primary }
+
+[For Red Cross Staff](staff/index.md){: .md-button .md-button--secondary }
+
+[For System Administrators](admin/index.md){: .md-button }
