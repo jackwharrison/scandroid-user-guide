@@ -13,7 +13,9 @@ Scandroid is designed to be:
 - **Easy to use in the field**  
 - **Clear and secure** for payment validation  
 
-# Logging in to Scandroid
+---
+
+## Logging in to Scandroid
 
 When you first open Scandroid, you will see the login screen:
 
@@ -28,7 +30,9 @@ To log in:
 
 If you do not have login details, contact the Red Cross team member responsible for your programme.
 
-# Syncing Records
+---
+
+## Syncing Records
 
 After logging in, you will see the **Sync Offline Records** screen:
 
@@ -51,7 +55,9 @@ This page prepares the system so you can validate beneficiaries **offline**.
 
 ⚠️ **Important:** Always complete Steps 1 and 2 while online before moving to Step 3. This makes sure you have the most recent information available.
 
-# Scanning QR Codes
+---
+
+## Scanning QR Codes
 
 When you are ready to validate a beneficiary, open the scanning page and press **Start camera**:
 
@@ -65,7 +71,9 @@ Hold the QR code provided by the Red Cross in front of the camera.
 
 Once the QR code is recognised, Scandroid will display the beneficiary’s details (such as photo, date of birth, and village). You can then confirm their identity by asking the relevant questions.
 
-# Beneficiary Information
+---
+
+## Beneficiary Information
 
 After scanning a QR code, the **Beneficiary Information** page will appear:
 
@@ -88,7 +96,9 @@ At the bottom of the page, you have two options:
 
 Your decision will be saved **offline** on the device. When you next connect to the internet, you will need to **sync Scandroid** to push these decisions back to the 121 Platform.
 
-# Submitting a Decision
+---
+
+## Submitting a Decision
 
 After you approve or reject a payment, you will see a confirmation screen:
 
@@ -103,7 +113,9 @@ This screen confirms that your decision has been saved **offline**.
 
 ⚠️ **Important:** Your decisions are not sent to the 121 Platform immediately. They are stored securely on your device and will only be pushed once you are back online and perform a sync.
 
-# Generating Decisions to send to 121
+---
+
+## Generating Decisions to send to 121
 
 Once you have finished scanning beneficiaries, you need to **send your approval and rejection decisions back to the 121 Platform**.  
 
@@ -121,7 +133,9 @@ On the homepage, select **Step 4. Generate Payments to Send to 121**:
 
 This ensures that all payment validations you carried out offline are properly recorded in the central system.
 
-# Sending Payments to 121
+---
+
+## Sending Payments to 121
 
 After generating the CSV, the last step is to **send your decisions back to the 121 Platform**.
 
