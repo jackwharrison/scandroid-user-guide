@@ -9,6 +9,7 @@ If the details match, you **approve the payment**. If they do not match, you **r
 Because Scandroid works offline, you can continue validating payments without internet access. All you need to do is **sync once** (when online) to get the latest information. Your decisions (approve or reject) are stored on the device, and when you are back online you can **push them to the 121 Platform** to finalise the payments.  
 
 Scandroid is designed to be:
+
 - **Reliable in low-connectivity environments**  
 - **Easy to use in the field**  
 - **Clear and secure** for payment validation  
