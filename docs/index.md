@@ -30,8 +30,8 @@ Scandroid is:
 
 To get started, choose the guidance most relevant to your role:
 
-[For Financial Service Providers (FSPs)](fsp/index.md){ .md-button .md-button--primary }
 [For Red Cross Staff](staff/index.md){ .md-button .md-button--secondary }
+[For Financial Service Providers (FSPs)](fsp/index.md){ .md-button .md-button--primary }
 [For System Administrators](admin/index.md){ .md-button }
 
 
