@@ -66,7 +66,8 @@ When you are ready to validate a beneficiary, open the scanning page and press *
 
 Hold the QR code provided by the Red Cross in front of the camera.  
 
-⚠️ **Important:** This is a **special Scandroid QR code scanner**.  
+⚠️ **Important:** 
+- This is a **special Scandroid QR code scanner**.  
 - It is configured to read **beneficiary codes created by the Red Cross system**.  
 - Your regular phone camera or other QR scanner apps will **not work**.  
 
@@ -81,6 +82,7 @@ After scanning a QR code, the **Beneficiary Information** page will appear:
 <img width="870" height="736" alt="image" src="https://github.com/user-attachments/assets/600a17b1-0b2a-4ce1-b4e6-8a131a640dbc" />
 
 This page shows the details configured by the Red Cross staff for validation.  
+
 These may include:  
 - **Photo** of the beneficiary  
 - **Name**  
@@ -91,7 +93,8 @@ These may include:
 Use these details to confirm the person’s identity by asking simple security questions (e.g. “What is your village?” or “When were you born?”).  
 
 ### Making a decision
-At the bottom of the page, you have two options:  
+At the bottom of the page, you have two options:
+
 - ✅ **Payment Approved** – choose this if the details match and you are confident the person is the correct beneficiary.  
 - ❌ **Payment Rejected** – choose this if the details do not match or you are not confident in the person’s identity.  
 
