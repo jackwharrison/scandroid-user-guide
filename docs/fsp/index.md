@@ -1,6 +1,4 @@
-![Scandroid Banner](img/scandroid_banner.png)
 
-# TESTING UPDATE
 
 # Welcome to Scandroid
 
@@ -16,7 +14,3 @@ If you need help at any point, just refer to the contact information in the foot
 
 
 ## Choose your role:
-
-- [Red Cross Staff](redcross.md)
-- [Financial Service Provider (FSP)](fsp.md)
-- [Admin](admin.md)
