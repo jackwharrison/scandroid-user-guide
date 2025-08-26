@@ -14,6 +14,7 @@ Your main responsibilities include:
   - Select the correct **121 payment**.  
 
 Scandroid is designed to be:
+
 - **Flexible** – you choose what details are displayed for validation.  
 - **Secure** – sensitive data is encrypted, and FSPs only see what is needed for identity confirmation.  
 - **Practical** – works well in low-connectivity environments.
