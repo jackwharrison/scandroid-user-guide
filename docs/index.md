@@ -1,5 +1,5 @@
 # Introduction to Scandroid
-
+!!! info "At a glance"
 **Scandroid** is a lightweight mobile and web application developed by the **510 team at the Netherlands Red Cross**. It extends the **121 Platform** to support **offline validation** in Cash and Voucher Assistance (CVA) programmes, particularly in contexts where people may not have formal identification or access to smartphones.
 
 The concept is simple:
