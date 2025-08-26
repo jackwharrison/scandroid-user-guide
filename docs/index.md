@@ -27,24 +27,8 @@ Scandroid is:
 
 To get started, choose the guidance most relevant to your role:
 
-<style>
-.next-steps {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 1rem;
-  margin-top: 1rem;
-}
-.next-steps a {
-  flex: 1 1 200px;
-  text-align: center;
-}
-</style>
+[For Financial Service Providers (FSPs)](fsp/index.md){: .md-button .md-button--primary }
 
-<div class="next-steps">
+[For Red Cross Staff](staff/index.md){: .md-button .md-button--secondary }
 
-[For Financial Service Providers (FSPs)](fsp/index.md){: .md-button .md-button--primary }  
-[For Red Cross Staff](staff/index.md){: .md-button .md-button--secondary }  
 [For System Administrators](admin/index.md){: .md-button }
-
-</div>
