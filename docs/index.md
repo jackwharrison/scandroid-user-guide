@@ -22,3 +22,11 @@ Scandroid is:
 - **Lightweight and easy to use** for FSPs in the field.  
 - **Flexible and customisable** for Red Cross staff configuring validation.  
 - **Accessible**, with multiple languages supported out of the box.
+
+## Next Steps
+
+To get started, choose the guidance most relevant to your role:
+
+- [**For Financial Service Providers (FSPs)**](fsp/index.md)
+- [**For Red Cross Staff**](staff/index.md)
+- [**For System Administrators**](admin/index.md)
